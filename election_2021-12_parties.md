@@ -1,7 +1,7 @@
 # List of parties for the December 2021 Mayensland general election
 
 ## Mayen Communist Party (MCP / Com)
-<div style="width:300px;height:5px;background-color:#310505;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/310505/000000?text=+)
 
 - Marxist-Leninism
 - Communism
@@ -17,7 +17,7 @@ Founded: The Communists were one of the original parties to exist
 ---
 
 ## Party of the Workers (PW) / Workers Party of Mayensland (WPM / Wrk)
-<div style="width:300px;height:5px;background-color:#5A0B0B;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/5A0B0B/000000?text=+)
 
 - Democratic Socialism
 - Progressivism
@@ -33,7 +33,7 @@ Founded: The Workers were one of the original parties to exist
 ---
 
 ## Labour Party (LabP / Lab)
-<div style="width:300px;height:5px;background-color:#EC0F0F;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/EC0F0F/000000?text=+)
 
 - Social Democracy
 - Environmentalism
@@ -49,7 +49,7 @@ Founded: Labour were one of the original parties to exist
 ---
 
 ## Green Party of Mayensland (GPM / Grn)
-<div style="width:300px;height:5px;background-color:#2ECC71;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/2ECC71/000000?text=+)
 
 - Green politics
 - Progressivism
@@ -65,7 +65,7 @@ Founded: The Greens were one of the original parties to exist
 ---
 
 ## Liberal Party (LibP / Lib)
-<div style="width:300px;height:5px;background-color:#F1C40F;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/F1C40F/000000?text=+)
 
 - Liberalism
 - Pro-Democracy
@@ -81,7 +81,7 @@ Founded: The Liberals were one of the original parties to exist
 ---
 
 ## Libertarian Party (LbtP / Lbt)
-<div style="width:300px;height:5px;background-color:#0000FF;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/0000FF/000000?text=+)
 
 - Libertarianism
 - Capitalism
@@ -97,7 +97,7 @@ Founded: The Libertarians were one of the original parties to exist
 ---
 
 ## Mayensland Patriots Party (MPP)
-<div style="width:300px;height:5px;background-color:#020202;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/020202/000000?text=+)
 
 - Right Wing Populism
 - Protectionism
@@ -113,7 +113,7 @@ Founded: The Patriots were one of the original parties to exist
 ---
 
 ## Christian Social Alliance (CSA)
-<div style="width:300px;height:5px;background-color:#1A581B;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/1A581B/000000?text=+)
 
 - Agrarianism
 - Christian democracy
@@ -129,7 +129,7 @@ Founded: The party were founded largely as a split of the Greens more “rural�
 ---
 
 ## Feminist Initiative (FI / Fem)
-<div style="width:300px;height:5px;background-color:#CB297B;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/CB297B/000000?text=+)
 
 - Feminism
 - Pro-LGBT
@@ -145,7 +145,7 @@ Founded: After the collapse of the liberal conservative “Conservative Union”
 ---
 
 ## Peoples Party of Mayensland (PPM)
-<div style="width:300px;height:5px;background-color:#14E7E7;">&nbsp;</div>
+![](https://via.placeholder.com/300x5/14E7E7/000000?text=+)
 
 - National Populism 
 - Nationalism
