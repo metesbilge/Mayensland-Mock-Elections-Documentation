@@ -16,7 +16,7 @@ For more details, see [List of parties for the December 2021 Mayensland general 
 
 ## Opinion polls
 
-[Forward, December 17](poll_forward_20211217.md)
+[Forward, December 17](poll_Forward_20211217.md)
 
 ## Results
 
