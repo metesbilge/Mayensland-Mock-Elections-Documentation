@@ -1,6 +1,6 @@
 # Forward poll, Dec. 17
 
-This poll got 47 votes.
+This poll had 47 participants.
 
 ---
 
