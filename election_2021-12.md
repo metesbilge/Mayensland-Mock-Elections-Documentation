@@ -1,7 +1,7 @@
 # December 2021 Mayensland general election
 
 ## Parties
-For more details, see [List of parties for the December 2021 Mayensland general election](election_2021-12_parties)
+For more details, see [List of parties for the December 2021 Mayensland general election](election_2021-12_parties.md)
 
 - Mayen Communist Party (Com)
 - Workers Party (Wrk)
